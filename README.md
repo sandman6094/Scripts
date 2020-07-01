@@ -13,11 +13,11 @@ Convert png files to a single pdf file with respect to their filename order.
 
 For Debian/Ubuntu:
   
-  sudo apt install imagemagick
+    sudo apt install imagemagick
   
 For Arch Linux/Manjaro:
-
-  sudo pacman -S imagemagick
+    
+    sudo pacman -S imagemagick
 
 ### How to use?
 
@@ -25,6 +25,6 @@ Put the slides.sh to the same directory with png files, then run it! Then it wou
 
 **You may need to add the run permission for this file**
 
-  sudo chmod +x ./sildes.sh
+    sudo chmod +x ./sildes.sh
   
 ---
