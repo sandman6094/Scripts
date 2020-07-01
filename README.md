@@ -7,7 +7,7 @@ Useful (maybe?) scripts here.
 
 Convert png files to a single pdf file with respect to their filename order.
 
-### Requirements
+### Prerequisites
 
 **imagemagick**
 
